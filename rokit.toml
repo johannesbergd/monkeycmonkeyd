@@ -1,0 +1,5 @@
+# Tools for this project, installed by Rokit (https://github.com/rojo-rbx/rokit).
+# Run `rokit install` (start-dev.bat does it for you) to get exactly these versions.
+
+[tools]
+rojo = "rojo-rbx/rojo@7.7.0"
